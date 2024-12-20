@@ -1,0 +1,4 @@
+repository "Test 2@famco2019@cloud"
+  path "/"
+    br "/main"
+    co "/main"
